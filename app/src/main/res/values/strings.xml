@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="connection_warning">Проверьте интернет и попробуйте снова</string>
+    <string name="update">Обновить</string>
+    <string name="weather">Погода</string>
+    <string name="gps_request">Включите GPS</string>
+    <string name="next">Далее</string>
+
+    <!-- error -->
+    <string name="error_network_connection">Отсутствует подключение к интернету</string>
+    <string name="error_server">Что-то пошло не так</string>
+
+
+</resources>
